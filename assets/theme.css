@@ -4332,7 +4332,7 @@ body{
 
 /*** Styles by Kalita ***/
 @media (max-width: 768px) {
-    .col-1 {
+    .col-1, .widget-cat-basic .col-md-2 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
